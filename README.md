@@ -1,0 +1,1 @@
+# stockity-checker
